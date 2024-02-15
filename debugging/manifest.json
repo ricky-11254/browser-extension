@@ -1,0 +1,13 @@
+﻿{
+  "name": "Chapter 3 (MV3) Debug",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is Chapter 3",
+  "action": {
+    "default_title": "I am Chapter 3",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "Chapter_3_32.png"
+    }
+  }
+}

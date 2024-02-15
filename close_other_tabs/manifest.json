@@ -1,0 +1,13 @@
+﻿{
+  "name": "Chapter 7 (MV3) Close other tabs",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is Chapter 7",
+  "action": {
+    "default_title": "I am Chapter 7",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "Chapter_7_32.png"
+    }
+  }
+}
